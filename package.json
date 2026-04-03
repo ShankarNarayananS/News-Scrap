@@ -9,7 +9,7 @@
   "author": "Shankar Narayanan S",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.2.5",
+    "electron": "^39.8.4",
     "nightmare": "^3.0.2"
   }
 }
